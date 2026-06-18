@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    height:50%;
+    width: 30%;
+    background-color: #B5BAFF;
+    border: 2px solid black;
+    
+
+}
+    
+.Title{
+    margin-left: 4rem;
+    height:2rem;
+    
+}
+
+h1{
+    margin-left: 70px;
+}
+
+.Description{
+    margin-left: 4rem;
+
+}
+
+.priority{
+    margin-left:4rem;
+    height: 2rem;
+}
+
+
+
+.submit{
+    margin-left: 20rem;
+    height:2rem;
+    width: 5rem;
+    background-color: #4382DF;
+}
