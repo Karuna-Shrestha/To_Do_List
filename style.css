@@ -16,7 +16,7 @@ body{
     height:70vh;
     width:50%;
 
-    background-color: rgb(139, 71, 222);
+    background-color: #EE6983;
 
     
 }
@@ -57,10 +57,12 @@ button{
     height:2rem;
     width:4rem;
     position: relative;
-   background-color:blue;
+   background-color:#8494FF;
     color:white;
     bottom: 6%;
     left:68%;
+
+
     
 }
 
@@ -72,12 +74,13 @@ button{
 .card-box{
     display: flex;
     height:15rem;
+    padding-right: 30px;
 }
 
 .container1{
-    height:2rem;
-    width: 9rem;
-    background-color: brown;
+    height:15rem;
+    width: 18rem;
+    background-color: #FFC4C4;
     margin-left: 40px;
     display: flex;
     justify-content: center;
